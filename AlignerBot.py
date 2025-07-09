@@ -9,8 +9,8 @@ openai.api_key = SENHA_OPEN_AI
 
 
 # URL da imagem do logo no repositório do GitHub
-logo_url = "https://github.com/cristianomaraujo/AlignerBot/blob/main/eng.jpg?raw=true"
-logo_url3 = "https://github.com/cristianomaraujo/AlignerBot/blob/main/capa3.jpg?raw=true"
+logo_url = "https://github.com/cristianomaraujo/alignerbotTESTE/blob/main/eng.jpg?raw=true"
+logo_url3 = "https://github.com/cristianomaraujo/alignerbotTESTE/blob/main/capa3.jpg?raw=true"
 
 # Exibindo a imagem de logo na barra lateral
 st.sidebar.image(logo_url3, use_column_width=True, width=800)
